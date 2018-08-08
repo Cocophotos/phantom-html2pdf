@@ -19,7 +19,7 @@
     "async": "latest",
     "tmp": "latest",
     "debug": "latest",
-    "phantomjs-prebuilt": "latest",
+    "phantomjs-prebuilt-macbre": "latest",
     "bluebird": "^3.4.6"
   },
   "repository": {
